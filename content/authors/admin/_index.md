@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mr
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Joseph Thuha
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Joseph
+last_name: Thuha
 
 # Status emoji
 status:
@@ -17,68 +17,58 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: GIS Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: GoalSpatial
+    url: https://goalspatial.com
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: at-symbol
-    link: 'mailto:your-email@example.com'
+    link: 'mailto:josephthuha@gmail.com'
   - icon: x
-    link: https://twitter.com/GetResearchDev
+    link: https://twitter.com/joethuha
     label: Follow me on Twitter
   - icon: github
-    link: https://github.com/gcushen
+    link: https://github.com/thuhaa
   - icon: linkedin
-    link: https://www.linkedin.com/
-  - icon: instagram
-    link: https://www.instagram.com/
+    link: https://www.linkedin.com/in/josephthuha/
 
 education:
-  - area: PhD in Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science in Geospatial Engineering
+    institution: The Technical University of Kenya
+    date_start: 2016-09-01
+    date_end: 2023-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_
-      Supervised by Prof Joe Smith
+      Thesis on _A GIS crowd-sourcing application to collect data on illegal dumping in Nairobi_
     button:
       label: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-  - area: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Junior GIS Consultant
+    company_name: UNDP
+    company_url: 'https://undp.org'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-12-01
     date_end: ''
     summary: |2-
-      Responsibilities include lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - position: Backend Software Engineer
-    company_name: X
+      Responsibilities include Developing machine learning models for mapping informal settlements
+      Supporting the development of the backend and frontend services for GeoHUB, an one stop shop for
+        Geospatial Data and Analytics for Policy makers
+      Designing and developing the UNDP Data Futures Platform Backend Pipeline for SDG Indicator data
+        retrieval, transformation and publishing to the Data Futures Platform
+  - position: GIS Intern
+    company_name: UNDP
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: Migrated infrastructure to a new data center.
+    date_start: 2022-01-01
+    date_end: 2022-10-31
+    summary: Supporting the development of the backend and frontend services for GeoHUB, an one stop shop for
+      Geospatial Data and Analytics for Policy makers
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -105,7 +95,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Travelling
         description: ''
         percent: 100
         icon: cat
@@ -117,11 +107,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Kiswahili
+    percent: 100
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently a Junior GIS Consultant at UNDP, HQ/BPPS/SDG Integration Team. I am also a GIS Developer at GoalSpatial, a GIS consultancy firm based in Nairobi, Kenya. I am passionate about using GIS to solve real world problems. I am also a Data Science enthusiast, and I am currently learning Machine Learning and Deep Learning.
 {style="text-align: justify; font-size: 0.8em;"}

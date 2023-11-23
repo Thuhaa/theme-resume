@@ -55,11 +55,10 @@ work:
     company_logo: ''
     date_start: 2022-12-01
     date_end: ''
-    summary: |2-
-      Responsibilities include 
-        -Developing machine learning models for mapping informal settlements
-        -Supporting the development of the backend and frontend services for GeoHUB, an one stop shop for Geospatial Data and Analytics for Policy makers
-        - Designing and developing the UNDP Data Futures Platform Backend Pipeline for SDG Indicator data retrieval, transformation and publishing to the Data Futures Platform
+    summary: |
+        1. Developing machine learning models for mapping informal settlements
+        2. Supporting the development of the backend and frontend services for GeoHUB, an one stop shop for Geospatial Data and Analytics for Policy makers
+        3. Designing and developing the UNDP Data Futures Platform Backend Pipeline for SDG Indicator data retrieval, transformation and publishing to the Data Futures Platform
   - position: GIS Intern
     company_name: UNDP
     company_url: ''

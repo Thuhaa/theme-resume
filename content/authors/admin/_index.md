@@ -109,5 +109,5 @@ languages:
     percent: 100
 ---
 
-I am currently a Junior GIS Consultant at UNDP, HQ/BPPS/SDG Integration Team. I am also a GIS Developer at GoalSpatial, a GIS consultancy firm based in Nairobi, Kenya. I am passionate about using GIS to solve real world problems. I am also a Data Science enthusiast, and I am currently learning Machine Learning and Deep Learning.
+I am currently a Junior GIS Consultant at UNDP, HQ/BPPS/SDG Integration Team. 
 {style="text-align: justify; font-size: 0.8em;"}

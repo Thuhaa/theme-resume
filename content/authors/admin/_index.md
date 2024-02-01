@@ -46,7 +46,7 @@ education:
       Thesis on _A GIS crowd-sourcing application to collect data on illegal dumping in Nairobi_
     button:
       label: 'Read Thesis'
-      url: 'https://example.com'
+      url: uploads/Project Report.pdf
 
 work:
   - position: Junior GIS Consultant
